@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-logica-programacao8", "exercicio-logica-programacao8.csproj", "{1FA2CBAC-2FE3-4149-8613-ED97C1D9C49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA2CBAC-2FE3-4149-8613-ED97C1D9C49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA2CBAC-2FE3-4149-8613-ED97C1D9C49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA2CBAC-2FE3-4149-8613-ED97C1D9C49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA2CBAC-2FE3-4149-8613-ED97C1D9C49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC2E430-6C0B-464D-86C7-D7BD0D3E4D1E}
+	EndGlobalSection
+EndGlobal
